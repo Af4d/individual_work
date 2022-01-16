@@ -1,0 +1,85 @@
+body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background-image: url(Cosmic-Gradient-14.jpg);
+        background-size: cover;
+  }
+  .fullScreen
+  {
+        width: 100%;
+        height: 32vh;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        flex-direction: column;
+  }
+  .fullScreen2
+  {
+        width: 100%;
+        height: 40vh;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        flex-direction: column;
+  }
+  .menu2
+  {
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+  }
+  .panel {
+        background-color: rgba(38, 32, 62, 0.8);
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px 20px 20px 20px;
+        font-size: 32px;
+  }
+  .logo {   
+        width: 20%;
+  }
+  .menu
+  {
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+  }
+.name {  
+        width: 25%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+  .lorem {
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        align-items: flex-start;
+        width: 50%;
+  }
+  .h3 {
+        display: flex;
+        font-size: 2rem;
+        justify-content: center;    
+        text-align: center;
+         width: 100%;
+         height: 12%;
+  }
+  .p {
+        display: flex;
+        justify-content: center;    
+        text-align: center;
+        width: 100%;
+}
+  .prostredniText  {
+        display: flex;
+        justify-content: center;
+        align-items: stretch;
+        align-content: center;
+        background-color:whitesmoke;
+        width: 80%;
+        border-radius: 1rem;
+  }
