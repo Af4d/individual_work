@@ -1,0 +1,31 @@
+
+$back-color: #CBC1B1;
+$hover-color: #7C7474;
+$txt-color: #000000;
+
+
+body{
+    margin: 0px;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 0.1em;
+    background: #E5E5E5;
+}
+
+h1{
+    text-align: center;
+    font-size: 3em;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+@import "_header.scss";
+@import "_hero-img.scss";
+@import "_medsea.scss";
+@import "_button-footer.scss";
+@import "_information.scss";
+@import "_contacts.scss";
+
+
+
+
+
